@@ -54,32 +54,12 @@ The goal is to identify the best-performing genres, successful directors, and to
 
 ---
 
-## Project Organization
 
-
-- **Final Notebook:** `notebooks/Final_Analysis_Notebook.ipynb` runs without errors.
-- **Working Notebooks:** Early explorations stored under `notebooks/`.
-- **Presentation Slides:** Stored under `slides/`.
-- **Visualizations:** Saved in `images/` folder.
 
 ---
 
 ## Commit History
 
- Clear commit messages such as:
-- "Cleaned movie dataset and merged tables"
-- "Added profit calculation feature"
-- "Created visualization for genre profits"
-
- Progress made throughout the project (not just before the deadline).
-
- Contributions from all team members (if a group project).
-
----
-
-## Deployment
-- Final analysis available in a **clean Jupyter Notebook**.
-- Project published and organized properly on GitHub.
 
 ---
 
