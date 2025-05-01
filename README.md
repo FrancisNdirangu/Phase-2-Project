@@ -1,8 +1,12 @@
 # Movie Studio Launch Analysis - Final Project
 Team: Group 5
+
 Members: Francis Ndirangu, Hanifa Chepchirchir, Brian Kipyegon, Ian Riua, Denis Kibor
+
 Pace: Full Time
+
 Instructor: Nikita Njoroge
+
 Review Date: May 2, 2025  
 
 # Project Overview
@@ -11,25 +15,39 @@ As a new entrant in the movie production industry, our goal is to uncover data-d
 ### This analysis uses comprehensive data from IMDb, The Movies, and The Numbers to explore:
 
 Genre trends
+
 Director performance
+
 Language and profitability
+
 Popularity vs. profitability
+
 Budget efficiency
 
 # Objectives
 Identify profitable movie genres and languages
+
 Determine if top-rated directors yield better ROI
+
 Analyze if popular or highly-rated movies generate more profit
 
 # Methodology
 Combined multiple datasets using SQL joins to unify:
+
 Titles, genres, and release years
+
 Ratings, popularity, financials
+
 Key contributors (directors, cast)
+
 Used Python libraries: pandas, numpy, sqlite3, seaborn, matplotlib, scipy, statsmodels
+
 Applied:
+
 Descriptive and inferential statistics
+
 Visualization (boxplots, bubble plots)
+
 T-tests and effect size calculations
 
 # Visual Findings
@@ -61,8 +79,11 @@ Animated vs. Real Movies: Animated films demonstrated higher average profits com
 Popularity drives profits: A movie's popularity is the strongest predictor of its commercial success. The studio should invest in marketing, promotions, and casting actors with large social followings.
 
 Quality matters: Higher-rated movies significantly outperform lower-rated ones. Invest in:
+
 High-rated directors
+
 Award-winning actors
+
 Strong scripts or adaptations from high-quality source material
 
 Top directors yield modest gains: Hiring highly-rated directors improves profitability, but the effect size is small (0.31). Focus on a balanced team.
@@ -77,9 +98,15 @@ Stick with English: Due to dataset limitations and target market considerations,
 
 # Next Steps
 Investigate strategies to boost movie popularity, including:
+
 Advertising budget analysis
+
 Influence of actor fame via social media metrics
+
 Explore ways to enhance movie quality:
+
 Hire top-rated actors and directors
+
 Consider adaptation from acclaimed source material
+
 Conduct A/B tests and hypothesis testing on creative decisions
