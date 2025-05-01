@@ -35,24 +35,24 @@ T-tests and effect size calculations
 # Visual Findings
 Boxplot of Net Income by Genre: Genres like Adventure, Animation, Sci-Fi, Musical, and Fantasy showed both higher medians and wider profit ranges, indicating strong commercial potential but some variability.
 
-[![](https://raw.githubusercontent.com/FrancisNdirangu/Phase-2-Project/main/README_images/boxplot_net_income_by_genre.png)](https://raw.githubusercontent.com/FrancisNdirangu/Phase-2-Project/main/README_images/boxplot_net_income_by_genre.png)
+[![Boxplot - Net Income by Genre](https://raw.githubusercontent.com/FrancisNdirangu/Phase-2-Project/main/README_images/boxplot_net_income_by_genre.png)](https://raw.githubusercontent.com/FrancisNdirangu/Phase-2-Project/main/README_images/boxplot_net_income_by_genre.png)
 
 
 
 Language Insight: English dominates in count, but Thai, Telugu, and Russian films show the highest profits.
 
-[![](https://raw.githubusercontent.com/FrancisNdirangu/Phase-2-Project/main/README_images/language_by_profit.png)](https://raw.githubusercontent.com/FrancisNdirangu/Phase-2-Project/main/README_images/language_by_profit.png)
+[![Language by Profit](https://raw.githubusercontent.com/FrancisNdirangu/Phase-2-Project/main/README_images/language_by_profit.png)](https://raw.githubusercontent.com/FrancisNdirangu/Phase-2-Project/main/README_images/language_by_profit.png)
 
 
 
 Bubble Plot: Budget vs. Net Income: A visible positive correlation exists between production budget and net income, especially when focusing on unique films to avoid overrepresentation from cast/crew multiplicity.
 
-[![](https://raw.githubusercontent.com/FrancisNdirangu/Phase-2-Project/main/README_images/bubble_plot.png)](https://raw.githubusercontent.com/FrancisNdirangu/Phase-2-Project/main/README_images/bubble_plot.png)
+[![Bubble Plot](https://raw.githubusercontent.com/FrancisNdirangu/Phase-2-Project/main/README_images/bubble_plot.png)](https://raw.githubusercontent.com/FrancisNdirangu/Phase-2-Project/main/README_images/bubble_plot.png)
 
 
 Animated vs. Real Movies: Animated films demonstrated higher average profits compared to non-animated ones, suggesting the studio should prioritize animation-heavy projects.
 
-[![](https://raw.githubusercontent.com/FrancisNdirangu/Phase-2-Project/main/README_images/animated_vs_non_animated.png)](https://raw.githubusercontent.com/FrancisNdirangu/Phase-2-Project/main/README_images/animated_vs_non_animated.png)
+[![Animated vs Non-Animated](https://raw.githubusercontent.com/FrancisNdirangu/Phase-2-Project/main/README_images/animated_vs_non_animated.png)](https://raw.githubusercontent.com/FrancisNdirangu/Phase-2-Project/main/README_images/animated_vs_non_animated.png)
 
 
 
