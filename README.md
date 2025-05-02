@@ -4,6 +4,7 @@ Members: Francis Ndirangu, Hanifa Chepchirchir, Brian Kipyegon, Ian Riua, Denis 
 Pace: Full Time
 Instructor: Nikita Njoroge
 Review Date: May 2, 2025  
+Trello Link: https://app.clickup.com/9012915717/v/b/8ckcbg5-72?pr=90123754241
 
 # Project Overview
 As a new entrant in the movie production industry, our goal is to uncover data-driven insights that inform what types of movies will most likely achieve commercial success.
